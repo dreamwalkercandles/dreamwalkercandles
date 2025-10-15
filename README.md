@@ -42,7 +42,7 @@ Cat ipsum dolor sit amet, nostrud or omnis but nesciunt error. Quia quae perspic
 ___
 
 
-### Golden Ember
+### PLACEHOLDER #3
 
 <img align="left" alt="PLACEHOLDER #3" width=275 height=175 src="https://placehold.co/275x175"/>
 
