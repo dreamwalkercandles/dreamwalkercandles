@@ -31,7 +31,7 @@ ___
 
 ### PLACEHOLDER #2
 
-<img align="right" alt="PLACEHOLDER #2" width=300 height=200 src="https://placehold.co/300x200"/>
+<img align="right" alt="PLACEHOLDER #2" width=275 height=175 src="https://placehold.co/275x175"/>
 
 Cat ipsum dolor sit amet, nostrud or omnis but nesciunt error. Quia quae perspiciatis quisquam, so nulla and nequeporro laudantium. Consequat autem but irure for consectetur and nemo. Vitae laborum ipsam so magna. Laboriosam tempora doloremque quaerat. Laborum exercitationem eaque or exercitation. Quae minima minima vel incidunt and et yet vel. Laboris laborum commodo. Nemo. Minima proident eiusmod mollit and ex culpa. Omnis. Nisi cillum eum, or sunt veritatis, but beatae.
 
