@@ -1,9 +1,63 @@
-# Cat ipsum dolor sit amet...
-carefully drink from water glass and then spill it everywhere and proceed to lick the puddle, lick human with sandpaper tongue ha ha, you're funny i'll kill you last so freak human out make funny noise mow mow mow mow mow mow success now attack human. Meow go back to sleep owner brings food and water tries to pet on head, so scratch get sprayed by water because bad cat sun bathe, but you call this cat food but why must they do that. Sleep all day whilst slave is at work, play all night whilst slave is sleeping chirp at birds but murder hooman toes so grab pompom in mouth and put in water dish. Sit on human they not getting up ever cat playing a fiddle in hey diddle diddle? or take a big fluffing crap ðŸ’©, but check cat door for ambush 10 times before coming in use lap as chair. Chase mice cry louder at reflection yet twitch tail in permanent irritation for cat not kitten around do i like standing on litter cuz i sits when i have spaces, my cat buddies have no litter i live in luxury cat life knock over christmas tree so attack dog, run away and pretend to be victim. I like big cats and i can not lie i just saw other cats inside the house and nobody ask me before using my litter box poop on couch cattt catt cattty cat being a cat. Whenever a door is opened, rush in before the human. Scoot butt on the rug good now the other hand, too kitty loves pigs. Dismember a mouse and then regurgitate parts of it on the family room floor. Pee in human's bed until he cleans the litter box cat jumps and falls onto the couch purrs and wakes up in a new dimension filled with kitty litter meow meow yummy there is a bunch of cats hanging around eating catnip so milk the cow or pose purrfectly to show my beauty sleep on dog bed, force dog to sleep on floor only use one corner of the litter box. I like to spend my days sleeping and eating fishes that my human fished for me we live on a luxurious yacht, sailing proudly under the sun, i like to walk on the deck, watching the horizon, dreaming of a good bowl of milk i like cats because they are fat and fluffy i hate cucumber pls dont throw it at me cat milk copy park pee walk owner escape bored tired cage droppings sick vet vomit and proudly present butt to human. Sleep nap eat too much then proceed to regurgitate all over living room carpet while humans eat dinner yet try to hold own back foot to clean it but foot reflexively kicks you in face, go into a rage and bite own foot, hard. 
+# TODO: Title & Main Description
+
+Cat ipsum dolor sit amet, cats are fats i like to pets them they like to meow
+back and need to chase tail chew on cable. Claws in your leg blow up sofa in
+3 seconds but massacre a bird in the living room and then look like the
+cutest and most innocent animal on the planet kick up litter purr eat grass,
+throw it back up.
+Growl at dogs in my sleep the fat cat sat on the mat bat away with paws or
+mmmmmmmmmeeeeeeeeooooooooowwwwwwww and i canhaz and pushes butt to face i just
+saw other cats inside the house and nobody ask me before using my litter box
+and who's the baby. Jump up to edge of bath, fall in then scramble in a mad
+panic to get out refuse to drink water except out of someone's glass but my
+water bowl is clean and freshly replenished, so i'll drink from the toilet.
+___
+
+
+## WIP: Products
+
+### Golden Ember
+
+<img align="left" alt="PLACEHOLDER #1" width=275 height=175 src="https://placehold.co/275x175"/>
+
+Un parfum cald și profund, care evocă serile târzii de toamnă, când aerul poartă mirosul frunzelor arse ușor și al lemnului ce încă păstrează căldura focului. Notele de tutun nerafinat se împletesc cu accente fine de muguet și dulceața subtilă a stafidelor, într-un acord echilibrat între forță și tandrețe. Cedrul roșu și rădăcina de stânjenel aduc profunzime și stabilitate, transformând aroma într-o amprentă caldă, elegantă, aproape hipnotică.
+
+***Aroma:*** `lemnoasă, balsamică, elegantă.`
+
+
+### 
+___
+
+
+### PLACEHOLDER #2
+
+<img align="right" alt="PLACEHOLDER #2" width=300 height=200 src="https://placehold.co/300x200"/>
+
+Cat ipsum dolor sit amet, nostrud or omnis but nesciunt error. Quia quae perspiciatis quisquam, so nulla and nequeporro laudantium. Consequat autem but irure for consectetur and nemo. Vitae laborum ipsam so magna. Laboriosam tempora doloremque quaerat. Laborum exercitationem eaque or exercitation. Quae minima minima vel incidunt and et yet vel. Laboris laborum commodo. Nemo. Minima proident eiusmod mollit and ex culpa. Omnis. Nisi cillum eum, or sunt veritatis, but beatae.
+
+***Aroma:*** `burmese, egyptian mau, turkish-angora bengal.`
+
+
+###
+___
+
+
+### Golden Ember
+
+<img align="left" alt="PLACEHOLDER #3" width=275 height=175 src="https://placehold.co/275x175"/>
+
+Un parfum cald și profund, care evocă serile târzii de toamnă, când aerul poartă mirosul frunzelor arse ușor și al lemnului ce încă păstrează căldura focului. Notele de tutun nerafinat se împletesc cu accente fine de muguet și dulceața subtilă a stafidelor, într-un acord echilibrat între forță și tandrețe. Cedrul roșu și rădăcina de stânjenel aduc profunzime și stabilitate, transformând aroma într-o amprentă caldă, elegantă, aproape hipnotică.
+
+***Aroma:*** `siamese sphynx, siberian cheetah, bobtail`
+
+
+### 
+___
+
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfW3_LAiMWHq75s65nGINn58RrpkI2SoqbXHdaD2o0Ljw74sA/viewform?usp=header">
-    <img alt="Static Badge" width=200
-      src="https://img.shields.io/badge/Order_Now-_?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNyAxOGMtMS4xIDAtMS45OS45LTEuOTkgMlM1LjkgMjIgNyAyMnMyLS45IDItMi0uOS0yLTItMnpNMSAydjJoMmwzLjYgNy41OS0xLjM1IDIuNDVjLS4xNi4yOC0uMjUuNjEtLjI1Ljk2IDAgMS4xLjkgMiAyIDJoMTJ2LTJINy40MmMtLjE0IDAtLjI1LS4xMS0uMjUtLjI1bC4wMy0uMTIuOS0xLjYzaDcuNDVjLjc1IDAgMS40MS0uNDEgMS43NS0xLjAzbDMuNTgtNi40OUExLjAwMyAxLjAwMyAwIDAgMCAyMCA0SDUuMjFsLS45NC0ySDF6bTE2IDE2Yy0xLjEgMC0xLjk5LjktMS45OSAycy44OSAyIDEuOTkgMiAyLS45IDItMi0uOS0yLTItMnoiLz48L3N2Zz4%3D&logoColor=white&logoSize=auto&link=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfW3_LAiMWHq75s65nGINn58RrpkI2SoqbXHdaD2o0Ljw74sA%2Fviewform%3Fusp%3Dheader">
+    <img alt="Order Now!" width=200
+      src="https://img.shields.io/badge/Order_Now-_?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNyAxOGMtMS4xIDAtMS45OS45LTEuOTkgMlM1LjkgMjIgNyAyMnMyLS45IDItMi0uOS0yLTItMnpNMSAydjJoMmwzLjYgNy41OS0xLjM1IDIuNDVjLS4xNi4yOC0uMjUuNjEtLjI1Ljk2IDAgMS4xLjkgMiAyIDJoMTJ2LTJINy40MmMtLjE0IDAtLjI1LS4xMS0uMjUtLjI1bC4wMy0uMTIuOS0xLjYzaDcuNDVjLjc1IDAgMS40MS0uNDEgMS43NS0xLjAzbDMuNTgtNi40OUExLjAwMyAxLjAwMyAwIDAgMCAyMCA0SDUuMjFsLS45NC0ySDF6bTE2IDE2Yy0xLjEgMC0xLjk5LjktMS45OSAycy44OSAyIDEuOTkgMiAyLS45IDItMi0uOS0yLTItMnoiLz48L3N2Zz4%3D&logoColor=white&logoSize=auto&link=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSfW3_LAiMWHq75s65nGINn58RrpkI2SoqbXHdaD2o0Ljw74sA%2Fviewform%3Fusp%3Dheader"/>
     </a>
 </p>
