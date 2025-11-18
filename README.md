@@ -17,7 +17,7 @@ ___
   1. Linden Spirit
 </h3>
 
-<img align="left" alt="Linden Spirit" width=275 height=175 src="[./assets/Linden Spirit.png](https://github.com/dreamwalkercandles/dreamwalkercandles/blob/main/assets/Linden%20Spirit.png)"/>
+<img align="left" alt="Linden Spirit" width="275" height="175" src="./assets/linden-spirit.png" />
 </h1>
 </p>
 
