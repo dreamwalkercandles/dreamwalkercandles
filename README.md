@@ -86,37 +86,37 @@ ___
 
 ___
 <h3 align="left">
-  5. Spicy Bloom
+  5. Crimson Bloom
 </h3>
 
-<img align="left" alt="Spicy Bloom" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="left" alt="Crimson Bloom" width=275 height=175 src="https://placehold.co/275x175"/>
 
 <p align="left">
-  Un buchet exotic de ylang-ylang înfloreste într-un vârtej condimentat de piper negru, potolit de dulceata catifelată a vaniliei. O explozie florală si senzuală, care lasă o urmă îndrăzneată si memorabilă.
+Un parfum delicat și luminos, în care aroma merelor coapte se împletește cu mirosul proaspăt al trandafirilor de grădină. Notele fine de flori albe și lemn nobil adaugă profunzime și echilibru, creând o atmosferă caldă, blândă și reconfortantă — ca o după-amiază liniștită în lumina apusului.
 </p>
 
 
 <p align="left">
   <h2></h2>
-  <strong>Aroma:</strong> <em>florală, exotică, seducătoare.</em>
+  <strong>Aroma:</strong> <em>florală, fructată, catifelată.</em>
   <h2></h2>
 </p>
 
 ___
 <h3 align="right">
-  6. Silky Ashes
+  6. Golden Ember
 </h3>
 
-<img align="right" alt="Silky Ashes" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="right" alt="Golden Ember" width=275 height=175 src="https://placehold.co/275x175"/>
 
 <p align="right">
-  Notele calde de ambră si santal indian se topesc într-o catifelare dulce de migdale si vanilie. Este o aromă mătăsoasă, profundă, ca o amintire de jar mocnit ce continuă să încălzească mult timp după ce flacăra s-a stins.
+Un parfum cald și profund, care evocă serile târzii de toamnă, când aerul poartă mirosul frunzelor arse ușor și al lemnului ce încă păstrează căldura focului. Notele de tutun nerafinat se împletesc cu accente fine de muguet și dulceața subtilă a stafidelor, într-un acord echilibrat între forță și tandrețe. Cedrul roșu și rădăcina de stânjenel aduc profunzime și stabilitate, transformând aroma într-o amprentă caldă, elegantă, aproape hipnotică.
 </p>
 
 
 <p align="right">
   <h2></h2>
-  <strong>Aroma:</strong> <em>balsamică, gurmandă, catifelată.</em>
+  <strong>Aroma:</strong> <em>lemnoasă, balsamică, elegantă.</em>
   <h2></h2>
 </p>
 
