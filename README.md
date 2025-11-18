@@ -37,7 +37,7 @@ ___
   2. Obsidian Fire
 </h3>
 
-<img align="right" alt="Obsidian Fire" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="right" alt="Obsidian Fire" width=275 height=175 src="assets/ObsidianFire.png"/>
 
 <p align="right">
   O esentă misterioasă si intensă, unde fumul sacru de Palo Santo dansează alături de notele adânci de oud. Un strop de piper negru aprinde compozitia, evocând forta brută a focului ascuns în piatra de obsidian.
