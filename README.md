@@ -50,19 +50,20 @@ ___
 
 ___
 <h3 align="left">
-  3. Rose Veil
+  3. The 17th Cup - Scotland’s Memory
 </h3>
 
-<img align="left" alt="Rose Veil" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="left" alt="The 17th Cup - Scotland’s Memory" width=275 height=175 src="https://placehold.co/275x175"/>
 
 <p align="left">
-  Un voal catifelat de trandafir se ridică peste tonurile senzuale de oud, aducând noblete si rafinament. Moscul alb învăluie totul într-o delicatete intimă, ca o atingere invizibilă care rămâne pe piele.
+ O esentă catifelată și profundă, cu accente întunecate și rafinate, care amintește de nopti reci încălzite de ciocolată caldă, trăite în inima vechiului Edinburgh. Tonurile delicioase se topesc într-o căldură blândă, lăsând în urmă ecoul unui moment intim și pretios.
 </p>
 
 
 <p align="left">
   <h2></h2>
-  <strong>Aroma:</strong> <em>florală, senzuală, sofisticată.</em>
+  <strong>Aroma:</strong> <em>caldă, delicioasă, prăjită, cremoasă
+</em>
   <h2></h2>
 </p>
 
