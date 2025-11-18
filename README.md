@@ -1,5 +1,5 @@
 <h1 align="center">
-<img align="center" src="./assets/poza%20finala%20burn%20time.png" />
+<img align="center" src="./poza-finala-burn-time.png" />
   <br/>DreamWalker 
   <h3 align="center">Lumânări Parfumate</h3>
 </h1>
@@ -17,7 +17,7 @@ ___
   1. Linden Spirit
 </h3>
 
-<img align="left" alt="Linden Spirit" width="275" height="175" src="./assets/linden-spirit.png" />
+<img align="left" alt="Linden Spirit" width="275" height="175"  src="./LindenSpirit275x175.png" />
 </h1>
 </p>
 
