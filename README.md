@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="./assets/poza finala burn time.png"/>
+<img align="center" src="./assets/poza finala burn time.png" />
   <br/>DreamWalker 
   <h3 align="center">Lumânări Parfumate</h3>
 </h1>
