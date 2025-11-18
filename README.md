@@ -18,10 +18,8 @@ ___
 </h3>
 
 <img align="left" alt="Linden Spirit" width=275 height=175 src="[./assets/Linden Spirit.png](https://github.com/dreamwalkercandles/dreamwalkercandles/blob/main/assets/Linden%20Spirit.png)"/>
-  <br/>DreamWalker 
-  <h3 align="center">Lumânări Parfumate</h3>
 </h1>
-/>
+</p>
 
 <p align="left">
   Un parfum luminos si senin, care aminteste de serile linistite de vară, când mirosul florilor de tei se împleteste cu iarba proaspăt cosită. Notele de santal adaugă profunzime si stabilitate, creând un acord calm, aproape meditational.
