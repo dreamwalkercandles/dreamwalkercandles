@@ -58,7 +58,7 @@ ___
 <img align="left" alt="The 17th Cup - Scotland’s Memory" width=275 height=175 src="https://placehold.co/275x175"/>
 
 <p align="left">
- O esentă catifelată și profundă, cu accente întunecate și rafinate, care amintește de nopti reci încălzite de ciocolată caldă, trăite în inima vechiului Edinburgh. Tonurile delicioase se topesc într-o căldură blândă, lăsând în urmă ecoul unui moment intim și pretios.
+ O esentă catifelată și profundă, cu accente întunecate și rafinate, care amintește de nopti reci încălzite de ciocolată caldă, trăite în inima vechiului Edinburgh. Tonurile delicioase se topesc într-o îmbrățișare blândă, lăsând în urmă ecoul unui moment intim și pretios.
 </p>
 
 
