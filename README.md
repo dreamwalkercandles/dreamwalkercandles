@@ -55,7 +55,7 @@ ___
   3. The 17th Cup - Scotland’s Memory
 </h3>
 
-<img align="left" alt="The 17th Cup - Scotland’s Memory" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="left" alt="The 17th Cup - Scotland’s Memory" width=275 height=175 src="The 17th Cup - Scotland's Memory.png"/>
 
 <p align="left">
  O esentă catifelată și profundă, cu accente întunecate și rafinate, care amintește de nopti reci încălzite de ciocolată caldă, trăite în inima vechiului Edinburgh. Tonurile delicioase se topesc într-o îmbrățișare blândă, lăsând în urmă ecoul unui moment intim și pretios.
@@ -92,7 +92,7 @@ ___
   5. Crimson Bloom
 </h3>
 
-<img align="left" alt="Crimson Bloom" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="left" alt="Crimson Bloom" width=275 height=175 src="Crimson Bloom.png"/>
 
 <p align="left">
 Un parfum delicat și luminos, în care aroma merelor coapte se împletește cu mirosul proaspăt al trandafirilor de grădină. Notele fine de flori albe și lemn nobil adaugă profunzime și echilibru, creând o atmosferă caldă, blândă și reconfortantă — ca o după-amiază liniștită în lumina apusului.
