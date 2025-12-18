@@ -110,7 +110,7 @@ ___
   6. Golden Ember
 </h3>
 
-<img align="right" alt="Golden Ember" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="right" alt="Golden Ember" width=275 height=175 src="Golden Ember.png"/>
 
 <p align="right">
 Un parfum cald și profund, care evocă serile târzii de toamnă, când aerul poartă mirosul frunzelor arse ușor și al lemnului ce încă păstrează căldura focului. Notele de tutun nerafinat se împletesc cu accente fine de muguet și dulceața subtilă a stafidelor, într-un acord echilibrat între forță și tandrețe. Cedrul roșu și rădăcina de stânjenel aduc profunzime și stabilitate, transformând aroma într-o amprentă caldă, elegantă, aproape hipnotică.
