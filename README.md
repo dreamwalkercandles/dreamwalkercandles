@@ -74,7 +74,7 @@ ___
   4. Citrus Noir
 </h3>
 
-<img align="right" alt="Citrus Noir" width=275 height=175 src="https://placehold.co/275x175"/>
+<img align="right" alt="Citrus Noir" width=275 height=175 src="Citrus Noir.png"/>
 
 <p align="right">
   Un contrast surprinzător între prospetimea vibrantă a portocalei si intensitatea condimentată a piperului negru. Notele de santal asază totul într-o bază caldă si misterioasă, ca un joc între lumină si umbră.
